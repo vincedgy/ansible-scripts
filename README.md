@@ -18,7 +18,7 @@ $ sudo pip install ansible
 
 http://www.paramiko.org/
 
-You should keep a look on this ssh2 implementation tool used by Ansible itself.
+You should give a look on this ssh2 implementation tool used by Ansible itself.
 
 ```bash
 $ sudo pip install paramiko
